@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page3",
-    "slug": "page3",
+    "name": "generate_crud_postgre",
+    "slug": "generate_crud_postgre",
     "layouts": [
       {
         "viewMode": false,
